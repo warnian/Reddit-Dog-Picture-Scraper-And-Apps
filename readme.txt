@@ -9,4 +9,5 @@ Submission scraper takes submissions off of reddit which you can use. - Basic fu
 
 PupperScraper uses submissionScraper to grab pictures of cute dogs from a few subreddits which can then be use - Basic functionality complete
 pupperSlideShow is a desktop application which pulls pictures and then displays them in an auto updating slideshow. - Under Construction
-pupperEmailer sends out an email with links and or embedded photos of dogs with their title - under construction
+
+pupperEmailer sends out an email with links and or embedded photos of dogs with their title uses several hidden files which are not in repo for email list and logins - basic email completed, would like to add unsubscribe button and scheduling mechanic.
